@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\Consolegoto\Consolegoto\bin\Debug\Consolegoto.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\Consolegoto\Consolegoto\bin\Debug\Consolegoto.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\Consolegoto\Consolegoto\bin\Debug\Consolegoto.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\Consolegoto\Consolegoto\obj\Debug\Consolegoto.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\Consolegoto\Consolegoto\obj\Debug\Consolegoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\Consolegoto\Consolegoto\obj\Debug\Consolegoto.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\Consolegoto\Consolegoto\obj\Debug\Consolegoto.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\Consolegoto\Consolegoto\obj\Debug\Consolegoto.pdb
